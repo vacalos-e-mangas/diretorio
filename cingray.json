@@ -5,9 +5,2910 @@
   "author": "Itou Junnousuke, Sugiura Masafumi",
   "cover": "https://vacalos-e-mangas-host.up.railway.app/cingray/cover.jpg",
   "chapters": {
-    "93": {
-      "title": "Oneshot",
+    "1": {
+      "title": "Bem aqui",
       "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/003.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/004.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/005.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/007.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/008.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/009.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/010.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/011.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/012.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/013.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/014.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/015.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/016.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/017.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/018.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/019.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/020.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/021.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/022.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/023.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/024.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/025.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/026.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/027.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/028.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/029.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/030.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/031.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/032.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/033.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/034.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/035.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/036.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/037.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/038.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/039.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/040.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/041.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/042.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/043.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/044.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/045.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/046.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/047.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/048.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/049.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/050-051.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/052.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/053.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/054-055.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/056.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/057.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/058-059.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/060.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/061.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/062.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch1/creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "2": {
+      "title": "Me arranje uma corrida",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/23.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/24.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/25.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/26.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/27.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/28.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/29.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/30.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/31.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/32.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/33.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/34.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/35.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/36.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/37.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/38.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/39.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/40.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/41.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/42.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch2/creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "3": {
+      "title": "Acho que posso confiar nele",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch3/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "4": {
+      "title": "Eu vou ganhar da próxima vez",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch4/creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "5": {
+      "title": "Um nível completamente diferente",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch5/19.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "6": {
+      "title": "Vista do topo",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch6/creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "7": {
+      "title": "Junior Crown",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "7.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7.5/001.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7.5/005.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7.5/215.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7.5/216.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol1/ch7.5/217.jpg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "8": {
+      "title": "Além das expectativas",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch8/creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "9": {
+      "title": "Duas vezes",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch9/Creditos.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "10": {
+      "title": "O mais alto padrão da região",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/2.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/3.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/4.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/5.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/6.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/7.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/8.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/9.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/10.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/11.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/12.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/13-14.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/15.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/16.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/17.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch10/creditos.jpg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "11": {
+      "title": "Licença",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/1.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/2.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/3.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/4.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/5.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/6.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/7.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/8.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/9.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/10.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/11.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/12.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/13.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/14.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/15.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/16.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/17.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/18.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/20.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch11/credits.jpg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "12": {
+      "title": "A melhor escolha",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/0.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/1.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/2.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/3.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/4.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/5.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/6.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/7.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/8.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/9.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/10.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/11.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/12.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/13.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/14.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/15.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/16.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/17.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/18.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/19.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch12/credits.jpg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "13": {
+      "title": "Então ganhe a corrida",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch13/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "14": {
+      "title": "O que você está fazendo?",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch14/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "15": {
+      "title": "Monstro",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch15/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "16": {
+      "title": "Obrigada Kasamatsu",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/17-18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "16.5": {
+      "title": "Volume 2 Extras",
+      "volume": "2",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/001.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol2/ch16.5/5.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "17": {
+      "title": "Academia Tracen",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch17/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "18": {
+      "title": "Registro da classe Clássica",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch18/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "19": {
+      "title": "Primeira corrida",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/0,5.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch19/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "20": {
+      "title": "Tremendo de entusiasmo",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch20/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "21": {
+      "title": "Incomparável",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/7-8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch21/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "22": {
+      "title": "Mainichi Hai",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch22/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "23": {
+      "title": "Uma Uma Musume qualquer iria...",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch23/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "24": {
+      "title": "Não há ideais sem sonhos",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/7-8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch24/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "25": {
+      "title": "Dignidade",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch25/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "26": {
+      "title": "Nippon Derby",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "26.5": {
+      "title": "Volume 3 Extras",
+      "volume": "3",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol3/ch26.5/7.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "27": {
+      "title": "O cume mais alto",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/0-1.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/6-7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch27/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "28": {
+      "title": "Farei meu próprio caminho",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/17-18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch28/guia ruim.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "29": {
+      "title": "A mais forte",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch29/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "30": {
+      "title": "A melhor Uma Musume do Japão",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch30/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "31": {
+      "title": "Férias de verão",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch31/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "32": {
+      "title": "Mainichi Okan",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch32/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "33": {
+      "title": "Onde ninguém pode te encostar",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch33/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "34": {
+      "title": "A Estrela de Kasamatsu",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/__trainer_kitasan_black_and_cheval_grand_umamusume_drawn_by_kirin_toroika__ac6c3f403388c4357cb2661134d7320b.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch34/verxina.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "35": {
+      "title": "Uniforme de corrida",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch35/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "36": {
+      "title": "Hoje ela está diferente",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/0.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/019.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "36.5": {
+      "title": "Volume 4 Extras",
+      "volume": "4",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00001.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00002.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00003.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00211.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00212.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol4/ch36.5/00213.jpeg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "37": {
+      "title": "Tennou-Sho (Outono)",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/9-10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch37/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "38": {
+      "title": "Avançar com tudo",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/50.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch38/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "39": {
+      "title": "Tudo para hoje",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/0-capa.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/9-10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/39.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch39/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "40": {
+      "title": "Pisadas de um monstro",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch40/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "41": {
+      "title": "Relâmpago Branco",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch41/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "42": {
+      "title": "A Zona",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch42/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "43": {
+      "title": "A melhor do Japão",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/43.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch43/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "44": {
+      "title": "Aquela que eu quero vencer",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch44/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "45": {
+      "title": "Milagre",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch45/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "46": {
+      "title": "Nossa história",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch46/credits 2.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "47": {
+      "title": "Eu vou ficar mais forte",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "47.5": {
+      "title": "Volume 5 Extras",
+      "volume": "5",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47.5/00001.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47.5/00003.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47.5/00211.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47.5/00212.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol5/ch47.5/00213.jpeg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "48": {
+      "title": "Nível mundial",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/01.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/02.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/03.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/04.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/05.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/06.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/07.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/08.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/09.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/020.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/021.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/23.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/24.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch48/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "49": {
+      "title": "Minha inimiga",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/01.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/02.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/03.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/04.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/05.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/06.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/07.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/08.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/09.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch49/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "50": {
+      "title": "Marcado na história",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/01.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/02.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/03.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/04.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/05.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/06.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/07.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/08.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/09.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch50/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "51": {
+      "title": "Japan Cup",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/021.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/23.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/24.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch51/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "52": {
+      "title": "Disputa por posições",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/7-8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch52/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "53": {
+      "title": "GOGOGOGO!!",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch53/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "54": {
+      "title": "Presença",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch54/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "55": {
+      "title": "Wild Joker",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch55/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "56": {
+      "title": "Se você puder",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/17-18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch56/credits 2.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "57": {
+      "title": "Dangerous Zone",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/5-6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "57.5": {
+      "title": "Volume 6 Extras",
+      "volume": "6",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57.5/00001.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57.5/00003.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57.5/00211.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57.5/00212.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol6/ch57.5/00213.jpeg"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "58": {
+      "title": "Para provar a mim mesma",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch58/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "59": {
+      "title": "Até que bem parecidas",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch59/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "60": {
+      "title": "Não acabe sendo apenas uma derrota",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch60/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "61": {
+      "title": "Domínio desconhecido",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch61/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "62": {
+      "title": "Estudo de campo",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch62/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "63": {
+      "title": "Ainda não vou desistir",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/01-1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/01@1x_1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/01@1x_1-1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch63/extras epi 1.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "64": {
+      "title": "Conheço melhor do que ninguém",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch64/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "65": {
+      "title": "Neste 'Domínio'",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch65/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "66": {
+      "title": "A Resposta",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/0-1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/2-3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/19-20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/credits.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch66/creditss2.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "67": {
+      "title": "Take it easy",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "67.5": {
+      "title": "Volume 7 Extras",
+      "volume": "7",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67.5/00001.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67.5/00003.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67.5/00211.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67.5/00212.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol7/ch67.5/00213.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "68": {
+      "title": "Arima Kinen",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch68/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "69": {
+      "title": "Seja você mesma",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch69/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "70": {
+      "title": "Chatice",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch70/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "71": {
+      "title": "Contagem Regressiva",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/012.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch71/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "72": {
+      "title": "Chute de Bala",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/14-15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch72/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "73": {
+      "title": "Fantasma Cinza",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/006.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch73/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "74": {
+      "title": "Venha correr comigo",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch74/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "75": {
+      "title": "Uma nova era",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/22.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/credits - 1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch75/credits - 2.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "76": {
+      "title": "Bem vinda de volta",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/17-18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "76.5": {
+      "title": "Volume 8 Extras",
+      "volume": "8",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76.5/00001.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76.5/00003.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76.5/00197.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76.5/00198.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol8/ch76.5/00199.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "77": {
+      "title": "A Arma Suprema de Ooi",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/0-1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/21.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch77/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "78": {
+      "title": "Tokyo Daishoten",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch78/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "79": {
+      "title": "Nova Era",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch79/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "80": {
+      "title": "Grande preço",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/16-17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch80/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "81": {
+      "title": "Havaí",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/11-12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch81/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "82": {
+      "title": "Recuperada",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch82/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "83": {
+      "title": "Você tirou as palavras da minha boca",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch83/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "84": {
+      "title": "Família Mejiro",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch84/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "85": {
+      "title": "Sendo perseguida",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "85.5": {
+      "title": "Volume 9 Extras",
+      "volume": "9",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol9/ch85.5/7.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "86": {
+      "title": "A corrida nunca vai acabar",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch86/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "87": {
+      "title": "Hábitos",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch87/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "88": {
+      "title": "A Ilusão da Raposa",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/9-10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch88/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "89": {
+      "title": "Não vou deixar ela escapar desta vez",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/7-8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch89/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "90": {
+      "title": "Ela me pegou de jeito!",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/16-17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch90/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "91": {
+      "title": "A Era de Ouro",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/7-8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/13-14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch91/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "92": {
+      "title": "Sociedade",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/1-2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/1-2 com WM.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "92.5": {
+      "title": "Volume 10 Extras",
+      "volume": "10",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol10/ch92.5/00193.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "93": {
+      "title": "Definitivamente",
+      "volume": "11",
       "groups": {
         "vacalos-e-mangas": [
           "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch93/0.png",
@@ -32,7 +2933,151 @@
           "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch93/credits.png"
         ]
       },
-      "last_updated": "1772157456"
+      "last_updated": "1772414546"
+    },
+    "94": {
+      "title": "A Filha de Nase Hidehito",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch94/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "95": {
+      "title": "As cortinas se abrem",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch95/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "96": {
+      "title": "Admiração",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/00.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/01-02.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/03.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/04.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/05.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/06.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/07.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/08.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/09.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch96/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "97": {
+      "title": "Uma pessoa diferente",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/3-4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch97/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
+    },
+    "98": {
+      "title": "Sen no sen",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/9-10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch98/credits.png"
+        ]
+      },
+      "last_updated": "1772414546"
     }
   }
 }
