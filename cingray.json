@@ -3079,5 +3079,32 @@
       },
       "last_updated": "1772414546"
     }
+  },
+  "99": {
+    "title": "Sob o seu reinado",
+    "volume": "11",
+    "groups": {
+      "vacalos-e-mangas": [
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/0.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/1-2.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/3.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/4.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/5.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/6.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/7.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/8.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/9.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/10.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/11.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/12.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/13-14.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/15.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/16.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/17.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/18.png",
+        "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch99/credits.png"
+      ]
+    },
+    "last_updated": "1773583488"
   }
 }
