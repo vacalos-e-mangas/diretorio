@@ -3105,6 +3105,35 @@
         ]
       },
       "last_updated": "1773583488"
+    },
+    "100": {
+      "title": "Rotina",
+      "volume": "11",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/14-15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/16-17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/20.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol11/ch100/credits.png"
+        ]
+      },
+      "last_updated": "1774783124"
     }
   }
 }
