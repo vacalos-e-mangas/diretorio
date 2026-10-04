@@ -3552,7 +3552,7 @@
       "last_updated": "1787496312"
     },
     "114": {
-     "title": "Temos certeza que iremos",
+      "title": "Temos certeza que iremos",
       "volume": "13",
       "groups": {
         "vacalos-e-mangas": [
@@ -3639,6 +3639,35 @@
         ]
       },
       "last_updated": "1790198521"
+    },
+    "117": {
+      "title": "Na melhor condição",
+      "volume": "13",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/15-16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/19.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch117/credits.png"
+        ]
+      },
+      "last_updated": "1791116361"
     }
   }
 }
