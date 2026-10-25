@@ -3698,6 +3698,48 @@
         ]
       },
       "last_updated": "1792014922"
+    },
+    "119": {
+      "title": "Sem truques baratos",
+      "volume": "13",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/0.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/1.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/3.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/4.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/5.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/6.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/7.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/8.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/9.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/10.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/11.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/12.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/13.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/14.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/15.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/16.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/17.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/18.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119/credits.png"
+        ]
+      },
+      "last_updated": "1792930251"
+    },
+    "119.5": {
+      "title": "Volume 13 Extras",
+      "volume": "13",
+      "groups": {
+        "vacalos-e-mangas": [
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119.5/0.jpeg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119.5/1.jpg",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119.5/2.png",
+          "https://vacalos-e-mangas-host.up.railway.app/cingray/vol13/ch119.5/3.png"
+        ]
+      },
+      "last_updated": "1792930251"
     }
   }
 }
